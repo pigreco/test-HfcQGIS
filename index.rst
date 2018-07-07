@@ -15,14 +15,14 @@ cartella Funzioni e sotto cartelle:
 .. toctree::
    :glob:
 
-  funzioni/aggregates/README
-  funzioni/arrays/README 
+   funzioni/aggregates/README
+   funzioni/arrays/README 
   
   cartella Funzioni e sotto cartelle 01:
 
 .. toctree::
    :glob:
 
-  funzioni/aggregates/funzioni/
-  funzioni/arrays/funzioni/
+   funzioni/aggregates/funzioni/
+   funzioni/arrays/funzioni/
   
