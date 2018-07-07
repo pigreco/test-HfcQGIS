@@ -18,4 +18,4 @@ cartella Funzioni e sotto cartelle:
    funzioni/aggregates/README
    funzioni/arrays/README
    funzioni/transformation/README
-  
+ 
