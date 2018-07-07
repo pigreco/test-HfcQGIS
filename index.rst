@@ -16,4 +16,4 @@ Markdown files:
    :caption: Cartella Funzioni e sotto cartelle
 
    funzioni/aggregates/index
-   funzioni/arrays/README
+   
