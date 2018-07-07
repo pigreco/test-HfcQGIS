@@ -15,3 +15,5 @@ files:
 
   interfaccia
   operatori
+  funzioni/aggregates/funzioni
+  funzioni/arrays/funzioni
