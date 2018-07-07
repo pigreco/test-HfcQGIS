@@ -15,5 +15,5 @@ Markdown files:
    :numbered:
    :caption: Cartella Funzioni e sotto cartelle
 
-   funzioni/aggregates/index
+   funzioni/aggregates/readme
    
