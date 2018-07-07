@@ -9,6 +9,7 @@ Markdown files:
    novita_3.2
    interfaccia
    operatori
+   funzioni/aggregates/readme
 
 .. toctree::
    :maxdepth: 2
