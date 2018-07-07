@@ -283,15 +283,16 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 # Markdown support
-
 from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
 
 # The suffix of source filenames.
 source_suffix = ['.rst', '.md']
 
-source_parsers = {
-	'.md': recommonmark.parser.CommonMarkParser,
-}
+
 
 # At the bottom of conf.py
 def setup(app):
