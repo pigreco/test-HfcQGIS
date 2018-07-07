@@ -13,7 +13,7 @@ Markdown files:
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: cartella Funzioni e sotto cartelle
+   :caption: Cartella Funzioni e sotto cartelle
 
    funzioni/aggregates/README
    funzioni/arrays/README
