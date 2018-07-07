@@ -10,8 +10,6 @@ Markdown files:
    interfaccia
    operatori
 
-cartella Funzioni e sotto cartelle:
-
 .. toctree::
    :caption: cartella Funzioni e sotto cartelle
 
