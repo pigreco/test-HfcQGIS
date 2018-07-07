@@ -15,5 +15,5 @@ cartella Funzioni e sotto cartelle:
 .. toctree::
    :glob:
 
-  funzioni/aggregates/funzioni
-  funzioni/arrays/funzioni
+  funzioni/aggregates/README
+  funzioni/arrays/README
