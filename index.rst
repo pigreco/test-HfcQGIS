@@ -25,5 +25,5 @@ cartella Funzioni e sotto cartelle:
    :glob:
 
   funzioni/aggregates/funzioni/
-  funzioni/aggregates/funzioni/
+  funzioni/arrays/funzioni/
   
