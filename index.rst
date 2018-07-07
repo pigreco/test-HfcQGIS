@@ -15,5 +15,3 @@ Markdown files:
 
    funzioni/aggregates/README
    funzioni/arrays/README
-   funzioni/transformation/README
- 
