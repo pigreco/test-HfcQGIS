@@ -9,7 +9,6 @@ Contents:
 Markdown files:
 
 .. toctree::
-   :glob:
 
    novita_3.2
    interfaccia
