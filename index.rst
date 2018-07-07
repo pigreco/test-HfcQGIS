@@ -9,4 +9,4 @@ Markdown files:
    novita_3.2
    interfaccia
    operatori
-   aggregates/readme
+   aggregates/index
