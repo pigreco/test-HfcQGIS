@@ -13,7 +13,7 @@ Markdown files:
 cartella Funzioni e sotto cartelle:
 
 .. toctree::
-   :glob:
+   :caption: cartella Funzioni e sotto cartelle
 
    funzioni/aggregates/README
    funzioni/arrays/README
