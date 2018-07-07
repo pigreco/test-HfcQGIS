@@ -7,13 +7,13 @@ Markdown files:
    :glob:
 
    novita_3.2
+   interfaccia
+   operatori
 
-files:
+cartella Funzioni e sotto cartelle:
 
 .. toctree::
    :glob:
 
-  interfaccia
-  operatori
   funzioni/aggregates/funzioni
   funzioni/arrays/funzioni
