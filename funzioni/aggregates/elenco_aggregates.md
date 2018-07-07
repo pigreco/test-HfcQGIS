@@ -2,7 +2,6 @@
 
 Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di [parametri con nome](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions).
 
-<br> Funzione  <br> Descrizione<br>
 
 [aggregate](funzioni/aggregate.html)  -  Restituisce un valore aggregato calcolato usando elementi da un altro vettore<br>
 [array_agg](funzioni/array_agg.html)  -  Restituisce un array di valori aggregati da un campo o espressione<br>
